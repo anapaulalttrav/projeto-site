@@ -8,6 +8,13 @@ body{
     margin: 0;          
 }
 
+img.lado {
+    float: right;
+    width: 150px;
+    height: auto;
+    border-radius: 80%;
+}
+
 main {
     background-color: white;
     width: 500px;
