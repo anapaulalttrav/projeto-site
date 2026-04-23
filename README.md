@@ -59,7 +59,7 @@ A palestra não foi apenas técnica, mas também estratégica para a carreira:
 ## 📸 Momento FMU
 
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/b8f49a3a-4228-4bcb-a99c-5816b875aab9" width="800" alt="Palestra na FMU">
+  <img src="palestrafmu.jfif" width="800" alt="Palestra na FMU">
 </p>
 
 ---
